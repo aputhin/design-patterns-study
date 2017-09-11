@@ -27,17 +27,22 @@ public class Programmer {
     }
 }
 
-public class BuilderPatternExample {
-    public static void main(String args[]) {
+public static class ProgrammerBuilder {
+    public static Programmer buildBackEnder() {
         Programmer backend = new Programmer.Builder()
             .kind(ProgrammerTypes.BACKEND)
             .addTechnology(ProgrammingLanguages.JAVA)
             .addTechnology(Databases.ORACLE)
             .build();
+        return backend;
+    }
+
+    public static Programmer buildFrontEnder() {
         Programmer frontend = new Programmer.Builder()
             .kind(ProgrammerTypes.FRONTEND)
             .addTechnology(ProgrammingLanguages.JAVASCRIPT)
             .addTechnology(Frameworks.REACT)
             .build();
+        return frontend;
     }
 }
