@@ -21,4 +21,5 @@ Furthermore, the application may implement a [**Singleton**](http://github.com/a
 
 ### Cons
 
-- Classes with circular references can't really be cloned.
+- Classes with circular references can't really be cloned;
+- If the base object is being used outside of the prototyping scope (i.e. being mutated), this could lead to unexpected behavior on its' children.
