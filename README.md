@@ -2,17 +2,19 @@ These are personal notes and example code for the [GOF Patterns](https://en.wiki
 
 We are commited to coding examples in Java, but I'm not a Java programmer, so expect the worse from the example code. Sometime in the future I plan to compile it and run, and also provide some JS specific code and analysis, but that's a big @TODO.
 
+Also, this is an on-going effort, following the study group's schedule. I will update the index as the repo evolves. 
+
 # Patterns Index
 
-## Creational Patterns
+## Creational Patterns :construction_worker:
 
 - [Abstract Factory](/abstract-factory)
 - [Builder](/builder)
-- [Factory Method](/factory-method)
+- [Factory Method](/factory-method) **
 - [Prototype](/prototype)
 - [Singleton](/singleton)
 
-## Structural Patterns
+## Structural Patterns :triangular_ruler:
 
 - Adapter
 - Bridge
@@ -22,12 +24,12 @@ We are commited to coding examples in Java, but I'm not a Java programmer, so ex
 - Flyweight
 - Proxy
 
-## Behavioral Patterns
+## Behavioral Patterns :traffic_light:
 
-- Chain of Responsibility
-- Command
+- [Chain of Responsibility](/chain-of-responsibility)
+- [Command](/command)
 - Interpreter
-- Iterator
+- [Iterator](/iterator)
 - Mediator
 - Memento
 - Observer
@@ -36,7 +38,7 @@ We are commited to coding examples in Java, but I'm not a Java programmer, so ex
 - Template Method
 - Visitor
 
-## Non-GOF Patterns
+## Non-GOF Patterns :alien:
 
 - [Object Pool](/object-pool) (Creational)
 
