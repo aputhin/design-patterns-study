@@ -10,7 +10,7 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 
 - [Abstract Factory](/abstract-factory)
 - [Builder](/builder)
-- [Factory Method](/factory-method) **
+- [Factory Method](/factory-method)
 - [Prototype](/prototype)
 - [Singleton](/singleton)
 
