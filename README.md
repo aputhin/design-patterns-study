@@ -26,7 +26,7 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 
 | Behavioral Patterns :traffic_light:                   | Readme | Analysis | Example  | Review |
 |-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
-| [Chain of Responsibility](/chain-of-responsibility)   |        |          |          |        |
+| [Chain of Responsibility](/chain-of-responsibility)   | :book: |          |          |        |
 | [Command](/command)                                   |        |          |          |        |
 | [Interpreter](/interpreter)                           |        |          |          |        |
 | [Iterator](/iterator)                                 | :book: |          |          |        |
@@ -47,3 +47,4 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 - [Vince Huston's Blog](http://www.vincehuston.org/dp/)
 - [Tutorial Point's series on DP](http://www.tutorialspoint.com/design_pattern/)
 - [Iluwatar's Design Patterns Study](http://java-design-patterns.com/patterns/)
+- [OODesign.com](http://www.oodesign.com/)
