@@ -6,41 +6,41 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 
 # Patterns Index
 
-## Creational Patterns :construction_worker:
+| Creational Patterns :construction_worker:             | Readme | Analysis | Example | Review |
+|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
+| [Abstract Factory](/abstract-factory)                 |:check: | :check:  |         |        |
+| [Builder](/builder)                                   |:check: | :check:  | :check: |        |
+| [Factory Method](/factory-method)                     |:check: | :check:  | :check: |        |
+| [Prototype](/prototype)                               |:check: | :check:  | :check: |        |
+| [Singleton](/singleton)                               |:check: | :check:  | :check: |        |
 
-- [Abstract Factory](/abstract-factory)
-- [Builder](/builder)
-- [Factory Method](/factory-method)
-- [Prototype](/prototype)
-- [Singleton](/singleton)
+| Structural Patterns :triangular_ruler:                | Readme | Analysis | Example | Review |
+|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
+| [Adapter](/adapter)                                   |        |          |         |        |
+| [Bridge](/bridge)                                     |        |          |         |        |
+| [Composite](/composite)                               |        |          |         |        |
+| [Decorator](/decorator)                               |        |          |         |        |
+| [Facade](/facade)                                     |        |          |         |        |
+| [Flyweight](/flyweight)                               |        |          |         |        |
+| [Proxy](/proxy)                                       |        |          |         |        |
 
-## Structural Patterns :triangular_ruler:
+| Behavioral Patterns :traffic_light:                   | Readme | Analysis | Example | Review |
+|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
+| [Chain of Responsibility](/chain-of-responsibility)   |        |          |         |        |
+| [Command](/command)                                   |        |          |         |        |
+| [Interpreter](/interpreter)                           |        |          |         |        |
+| [Iterator](/iterator)                                 |:check: |          |         |        |
+| [Mediator](/mediator)                                 |        |          |         |        |
+| [Memento](/memento)                                   |        |          |         |        |
+| [Observer](/observer)                                 |        |          |         |        |
+| [State](/state)                                       |        |          |         |        |
+| [Strategy](/strategy)                                 |        |          |         |        |
+| [Template Method](/template-method)                   |        |          |         |        |
+| [Visitor](/visitor)                                   |        |          |         |        |
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
-
-## Behavioral Patterns :traffic_light:
-
-- [Chain of Responsibility](/chain-of-responsibility)
-- [Command](/command)
-- Interpreter
-- [Iterator](/iterator)
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
-
-## Non-GOF Patterns :alien:
-
-- [Object Pool](/object-pool) (Creational)
+| Non-GOF Patterns :alien:                              | Readme | Analysis | Example | Review |
+|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
+| [Object Pool](/object-pool) (Creational)              |        |          |         |        |
 
 ### Generic Resources:
 - [Source Making](https://sourcemaking.com/design_patterns)
