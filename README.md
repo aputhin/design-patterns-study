@@ -6,13 +6,13 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 
 # Patterns Index
 
-| Creational Patterns :construction_worker:             | Readme | Analysis | Example | Review |
-|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
-| [Abstract Factory](/abstract-factory)                 |:check: | :check:  |         |        |
-| [Builder](/builder)                                   |:check: | :check:  | :check: |        |
-| [Factory Method](/factory-method)                     |:check: | :check:  | :check: |        |
-| [Prototype](/prototype)                               |:check: | :check:  | :check: |        |
-| [Singleton](/singleton)                               |:check: | :check:  | :check: |        |
+| Creational Patterns :construction_worker:             | Readme | Analysis | Example  | Review |
+|-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
+| [Abstract Factory](/abstract-factory)                 | :book: |  :mag:   |          |        |
+| [Builder](/builder)                                   | :book: |  :mag:   |:computer:|        |
+| [Factory Method](/factory-method)                     | :book: |  :mag:   |:computer:|        |
+| [Prototype](/prototype)                               | :book: |  :mag:   |:computer:|        |
+| [Singleton](/singleton)                               | :book: |  :mag:   |:computer:|        |
 
 | Structural Patterns :triangular_ruler:                | Readme | Analysis | Example | Review |
 |-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
@@ -29,7 +29,7 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 | [Chain of Responsibility](/chain-of-responsibility)   |        |          |         |        |
 | [Command](/command)                                   |        |          |         |        |
 | [Interpreter](/interpreter)                           |        |          |         |        |
-| [Iterator](/iterator)                                 |:check: |          |         |        |
+| [Iterator](/iterator)                                 | :book: |          |         |        |
 | [Mediator](/mediator)                                 |        |          |         |        |
 | [Memento](/memento)                                   |        |          |         |        |
 | [Observer](/observer)                                 |        |          |         |        |
