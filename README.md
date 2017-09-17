@@ -4,7 +4,7 @@ We are commited to coding examples in Java, but I'm not a Java programmer, so ex
 
 Also, this is an on-going effort, following the study group's schedule. I will update the index as the repo evolves. 
 
-# Patterns Index
+## Patterns Index and Roadmap
 
 | Creational Patterns :construction_worker:             | Readme | Analysis | Example  | Review |
 |-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
@@ -14,33 +14,33 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 | [Prototype](/prototype)                               | :book: |  :mag:   |:computer:|        |
 | [Singleton](/singleton)                               | :book: |  :mag:   |:computer:|        |
 
-| Structural Patterns :triangular_ruler:                | Readme | Analysis | Example | Review |
-|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
-| [Adapter](/adapter)                                   |        |          |         |        |
-| [Bridge](/bridge)                                     |        |          |         |        |
-| [Composite](/composite)                               |        |          |         |        |
-| [Decorator](/decorator)                               |        |          |         |        |
-| [Facade](/facade)                                     |        |          |         |        |
-| [Flyweight](/flyweight)                               |        |          |         |        |
-| [Proxy](/proxy)                                       |        |          |         |        |
+| Structural Patterns :triangular_ruler:                | Readme | Analysis | Example  | Review |
+|-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
+| [Adapter](/adapter)                                   |        |          |          |        |
+| [Bridge](/bridge)                                     |        |          |          |        |
+| [Composite](/composite)                               |        |          |          |        |
+| [Decorator](/decorator)                               |        |          |          |        |
+| [Facade](/facade)                                     |        |          |          |        |
+| [Flyweight](/flyweight)                               |        |          |          |        |
+| [Proxy](/proxy)                                       |        |          |          |        |
 
-| Behavioral Patterns :traffic_light:                   | Readme | Analysis | Example | Review |
-|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
-| [Chain of Responsibility](/chain-of-responsibility)   |        |          |         |        |
-| [Command](/command)                                   |        |          |         |        |
-| [Interpreter](/interpreter)                           |        |          |         |        |
-| [Iterator](/iterator)                                 | :book: |          |         |        |
-| [Mediator](/mediator)                                 |        |          |         |        |
-| [Memento](/memento)                                   |        |          |         |        |
-| [Observer](/observer)                                 |        |          |         |        |
-| [State](/state)                                       |        |          |         |        |
-| [Strategy](/strategy)                                 |        |          |         |        |
-| [Template Method](/template-method)                   |        |          |         |        |
-| [Visitor](/visitor)                                   |        |          |         |        |
+| Behavioral Patterns :traffic_light:                   | Readme | Analysis | Example  | Review |
+|-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
+| [Chain of Responsibility](/chain-of-responsibility)   |        |          |          |        |
+| [Command](/command)                                   |        |          |          |        |
+| [Interpreter](/interpreter)                           |        |          |          |        |
+| [Iterator](/iterator)                                 | :book: |          |          |        |
+| [Mediator](/mediator)                                 |        |          |          |        |
+| [Memento](/memento)                                   |        |          |          |        |
+| [Observer](/observer)                                 |        |          |          |        |
+| [State](/state)                                       |        |          |          |        |
+| [Strategy](/strategy)                                 |        |          |          |        |
+| [Template Method](/template-method)                   |        |          |          |        |
+| [Visitor](/visitor)                                   |        |          |          |        |
 
-| Non-GOF Patterns :alien:                              | Readme | Analysis | Example | Review |
-|-------------------------------------------------------|:------:|:--------:|:-------:|:------:|
-| [Object Pool](/object-pool) (Creational)              |        |          |         |        |
+| Non-GOF Patterns :alien:                              | Readme | Analysis | Example  | Review |
+|-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
+| [Object Pool](/object-pool) (Creational)              | :book: |  :mag:   |:computer:|        |
 
 ### Generic Resources:
 - [Source Making](https://sourcemaking.com/design_patterns)
