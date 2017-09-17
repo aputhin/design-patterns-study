@@ -27,7 +27,7 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 | Behavioral Patterns :traffic_light:                   | Readme | Analysis | Example  | Review |
 |-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
 | [Chain of Responsibility](/chain-of-responsibility)   | :book: |          |          |        |
-| [Command](/command)                                   |        |          |          |        |
+| [Command](/command)                                   | :book: |          |          |        |
 | [Interpreter](/interpreter)                           |        |          |          |        |
 | [Iterator](/iterator)                                 | :book: |          |          |        |
 | [Mediator](/mediator)                                 |        |          |          |        |
