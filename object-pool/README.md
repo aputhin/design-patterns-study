@@ -6,7 +6,7 @@ The cost of creating a object is high, the instantiation rate is high and the nu
 
 ### Intent
 
-"Provide a cache for instantiated objects, tracking which ones are in use and which are available."
+> Provide a cache for instantiated objects, tracking which ones are in use and which are available.
 
 ### How does it work?
 

@@ -6,7 +6,7 @@ A class can’t anticipate the class of objects it must create/implement, and th
 
 ### Intent
 
-"Provide an interface for creating families of related or dependent objects without specifying their concrete classes."
+> Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ### How does it work?
 

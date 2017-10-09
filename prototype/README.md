@@ -6,7 +6,7 @@ Creating a new object may be costly and/or complicated. Instead, you have a coup
 
 ### Intent
 
-"Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype."
+> Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
 
 ### How does it work?
 

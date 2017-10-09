@@ -16,27 +16,27 @@ Also, this is an on-going effort, following the study group's schedule. I will u
 
 | Structural Patterns :triangular_ruler:                | Readme | Analysis | Example  | Review |
 |-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
-| [Adapter](/adapter)                                   |        |          |          |        |
-| [Bridge](/bridge)                                     |        |          |          |        |
-| [Composite](/composite)                               |        |          |          |        |
-| [Decorator](/decorator)                               |        |          |          |        |
-| [Facade](/facade)                                     |        |          |          |        |
-| [Flyweight](/flyweight)                               |        |          |          |        |
-| [Proxy](/proxy)                                       |        |          |          |        |
+| [Adapter](/adapter)                                   | :book: |          |          |        |
+| [Bridge](/bridge)                                     | :book: |          |          |        |
+| [Composite](/composite)                               | :book: |          |          |        |
+| [Decorator](/decorator)                               | :book: |          |          |        |
+| [Facade](/facade)                                     | :book: |          |          |        |
+| [Flyweight](/flyweight)                               | :book: |          |          |        |
+| [Proxy](/proxy)                                       | :book: |  :mag:   |          |        |
 
 | Behavioral Patterns :traffic_light:                   | Readme | Analysis | Example  | Review |
 |-------------------------------------------------------|:------:|:--------:|:--------:|:------:|
 | [Chain of Responsibility](/chain-of-responsibility)   | :book: |          |          |        |
 | [Command](/command)                                   | :book: |          |          |        |
-| [Interpreter](/interpreter)                           |        |          |          |        |
+| [Interpreter](/interpreter)                           | :book: |          |          |        |
 | [Iterator](/iterator)                                 | :book: |          |          |        |
-| [Mediator](/mediator)                                 |        |          |          |        |
-| [Memento](/memento)                                   |        |          |          |        |
-| [Observer](/observer)                                 |        |          |          |        |
-| [State](/state)                                       |        |          |          |        |
-| [Strategy](/strategy)                                 |        |          |          |        |
-| [Template Method](/template-method)                   |        |          |          |        |
-| [Visitor](/visitor)                                   |        |          |          |        |
+| [Mediator](/mediator)                                 | :book: |          |          |        |
+| [Memento](/memento)                                   | :book: |          |          |        |
+| [Observer](/observer)                                 | :book: |          |          |        |
+| [State](/state)                                       | :book: |          |          |        |
+| [Strategy](/strategy)                                 | :book: |          |          |        |
+| [Template Method](/template-method)                   | :book: |          |          |        |
+| [Visitor](/visitor)                                   | :book: |          |          |        |
 
 | Non-GOF Patterns :alien:                              | Readme | Analysis | Example  | Review |
 |-------------------------------------------------------|:------:|:--------:|:--------:|:------:|

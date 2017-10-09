@@ -6,7 +6,7 @@ For a given class, there should be only one instantiated object of that class at
 
 ### Intent
 
-"Ensure a class only has one instance, and provide a global point of access to it."
+> Ensure a class only has one instance, and provide a global point of access to it.
 
 ### How does it work?
 
